@@ -1,6 +1,6 @@
 # wallpaper_app
 
-A new Flutter wallpaper application using pexcels API, The images can be veiwed based on categories and when viewed they can be download.
+A new Flutter wallpaper application using pexels API, The images can be veiwed based on categories and when viewed they can be download.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
